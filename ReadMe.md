@@ -21,7 +21,7 @@
  
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
   
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="[https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sqlservertutorial.net%2F&psig=AOvVaw0DZoMzdeoKhOJl_HAMfaEZ&ust=1682055018439000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCpj7Ldt_4CFQAAAAAdAAAAABAE)" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="[https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg]</a>
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> </a>
   
