@@ -4,20 +4,29 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Irene Nafula.
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
+- 👋 Hi, I’m Sulara Perera.
+- 👀 I’m a data analyst & engineer who enjoys documenting learning journey.
 - 🌱 I’m currently learning PowerBI and storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on instagram @herdataproject and read my articles on [Medium](https://medium.com/@irenenafula)
 
 ## Skills and Tools: <div>
 <p align="center">
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
+  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
+  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
+ 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
+  
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="[https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sqlservertutorial.net%2F&psig=AOvVaw0DZoMzdeoKhOJl_HAMfaEZ&ust=1682055018439000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCpj7Ldt_4CFQAAAAAdAAAAABAE)" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
+  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> </a>
+  
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
+  
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
 
 <!---
