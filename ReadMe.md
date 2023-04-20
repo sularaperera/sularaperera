@@ -5,7 +5,7 @@
 </div>
 
 - 👋 Hi, I’m Sulara Perera.
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
+- 👀 An Analytics guy working directly with stakeholders to help them better manage and utilize their data. I specialize in SQL, Python, and Microsoft Azure.
 - 🌱 I’m currently learning PowerBI and storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on instagram @herdataproject and read my articles on [Medium](https://medium.com/@irenenafula)
