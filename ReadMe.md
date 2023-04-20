@@ -2,6 +2,8 @@
   <a href="https://www.linkedin.com/in/irene-nafula-26210a175/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  
   <!---
   <a href="https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
@@ -13,7 +15,7 @@
 
 </div>
 
-- 👋 Hi, I’m Irene Nafula.
+- 👋 Hi, I’m Sulara Perera.
 - 👀 I’m a data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning PowerBI and storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
@@ -28,6 +30,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a>
 
 <!---
 Irene-arch/Irene-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
