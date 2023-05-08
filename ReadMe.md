@@ -8,7 +8,7 @@
 - 👀 Help stakeholders to better manage and utilize their data. I specialize in SQL, Python, and Microsoft Azure.
 - 🌱 I’m currently learning PowerBI and storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 📫 Let's connect on instagram @herdataproject and read my articles on [Medium](https://medium.com/@irenenafula)
+- 📫 Let's connect on LinkedIn and read my articles related to data analysis and engineering
 
 ## Skills and Tools: <div>
 <p align="center">
