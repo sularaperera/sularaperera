@@ -5,9 +5,9 @@
 </div>
 
 - 👋 Hi, I’m Sulara Perera.
-- 👀 Help stakeholders to better manage and utilize their data. I specialize in Power BI, SQL, Python, and Microsoft Azure.
+- 👀 Help stakeholders to better manage and utilize their data. I specialize in Power BI, Tableau, SQL, Python, and Microsoft Azure.
 - 🌱 I’m currently learning Azure Cloud and storytelling.
-- 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
+- 💞️ I’m open to collaborate on data analysis projects, volunteer or otherwise.
 - 📫 Let's connect on LinkedIn and read my articles related to data analysis and engineering
 
 ## Skills and Tools: <div>
