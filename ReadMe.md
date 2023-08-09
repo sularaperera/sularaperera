@@ -21,6 +21,7 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+    <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
 
 
   
