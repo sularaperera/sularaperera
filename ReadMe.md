@@ -32,7 +32,7 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas.png" title="Pandas" alt="Pandas" width="130" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Microsoft Power BI" alt="Microsoft Power BI" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Tableau" alt="Tableau" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="80" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="110" height="60"/></a> 
 
 </p>
 
