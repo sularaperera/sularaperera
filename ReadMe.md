@@ -31,6 +31,7 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/sql-server.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 
 </p>
 
