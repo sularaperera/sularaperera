@@ -21,7 +21,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="60" height="60"/> </a> <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DataBricks.png" title="Azure Databricks" alt="Azure Databricks" width="60" height="60"/> </a> <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="60" height="60"/> </a> <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="60" height="60"/></a> 
+<p align="left"> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Data-Factory.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-DataLake-icon.png" title="Microsoft Azure" alt="Microsoft Azure" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DataBricks.png" title="Azure Databricks" alt="Azure Databricks" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Synapse-Analytics.svg" title="Azure Databricks" alt="Azure Databricks" width="50" height="50"/></a>  
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Active-Directory.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+
 </p>
 
 
