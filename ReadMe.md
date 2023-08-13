@@ -34,6 +34,7 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Microsoft Power BI" alt="Microsoft Power BI" width="45" height="45"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="100" height="50"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/postgresql_logo.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>
 
 </p>
 
