@@ -28,7 +28,8 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Synapse-Analytics.svg" title="Azure Databricks" alt="Azure Databricks" width="50" height="50"/></a>  
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Active-Directory.svg" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="120" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Azure SQL-Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Azure SQL-Database" alt="Azure SQL-Database" width="80" height="50"/></a> 
