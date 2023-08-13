@@ -22,17 +22,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Data-Factory.svg" title="Azure Data Factory" alt="Azure Data Factory" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-DataLake-icon.png" title="Azure Data Lake Gen 2" alt="Azure Data Lake Gen 2" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DataBricks.png" title="Azure Databricks" alt="Azure Databricks" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Synapse-Analytics.svg" title="Azure Synapse Analytics" alt="Azure Synapse Analytics" width="50" height="50"/></a>  
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL Database" alt="Azure SQL-Database" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Active-Directory.svg" title="Azure Active Directory" alt="Azure Active Directory" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Python" alt="Python" width="50" height="50"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas.png" title="Pandas" alt="Pandas" width="130" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Microsoft Power BI" alt="Microsoft Power BI" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Tableau" alt="Tableau" width="50" height="50"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="110" height="60"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Data-Factory.svg" title="Azure Data Factory" alt="Azure Data Factory" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-DataLake-icon.png" title="Azure Data Lake Gen 2" alt="Azure Data Lake Gen 2" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DataBricks.png" title="Azure Databricks" alt="Azure Databricks" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Synapse-Analytics.svg" title="Azure Synapse Analytics" alt="Azure Synapse Analytics" width="40" height="40"/></a>  
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL Database" alt="Azure SQL-Database" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Active-Directory.svg" title="Azure Active Directory" alt="Azure Active Directory" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Python" alt="Python" width="40" height="40"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas.png" title="Pandas" alt="Pandas" width="120" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Microsoft Power BI" alt="Microsoft Power BI" width="45" height="45"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/></a> 
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="100" height="50"/></a> 
 
 </p>
 
