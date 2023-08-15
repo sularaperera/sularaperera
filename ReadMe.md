@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **sulara.perera@outlook.com**
 
-- 📄 Know about my experiences [https://github.com/sularaperera/sularaperera](https://github.com/sularaperera/sularaperera)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
