@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an Azure Data Engineering Project
 
-- 🌱 I’m currently learning **Azure Cloud**
+- 🌱 I’m currently learning Azure Cloud
 
 - 👨‍💻 All of my projects are available at [https://github.com/sularaperera?tab=repositories](https://github.com/sularaperera?tab=repositories)
 
