@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
-- 🔭 I’m currently working on [Azure Data Mining](https://www.linkedin.com/in/sularaperera/)
+- 🔭 I’m currently working on [Azure Data Engineering Project](https://www.linkedin.com/in/sularaperera/)
 
-- 🌱 I’m currently learning **Azure Cloud Stack**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sularaperera?tab=repositories](https://github.com/sularaperera?tab=repositories)
 
