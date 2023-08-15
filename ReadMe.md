@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning Azure Cloud
 
-- 👨‍💻 All of my projects are available at [https://github.com/sularaperera?tab=repositories](https://github.com/sularaperera?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/sularaperera](https://github.com/sularaperera?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sularaperera/](https://www.linkedin.com/in/sularaperera/)
+- 📝 I regularly write articles on [linkedin.com/in/sularaperera/](https://www.linkedin.com/in/sularaperera/)
 
 - 📫 How to reach me **sulara.perera@outlook.com**
 
