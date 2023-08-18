@@ -23,7 +23,6 @@
 <p align="left"> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="100" height="50"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/postgresql_logo.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/mysql_logo.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Python" alt="Python" width="35" height="35"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas_logo_white.png" title="Pandas" alt="Pandas" width="35" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Numpy_logo.png" title="Pandas" alt="Pandas" width="35" height="40"/></a>
