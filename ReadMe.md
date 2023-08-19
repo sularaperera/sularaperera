@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on an **Azure Data Engineering Project**
 
-- 🌱 I’m currently learning Azure Cloud
+- 🌱 I’m currently learning **R programming language**
 
 - 👨‍💻 All of my projects are available at [github.com/sularaperera](https://github.com/sularaperera?tab=repositories)
 
