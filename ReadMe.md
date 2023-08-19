@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
-🔧 <h3>My skill set includes:</h3>
+<h3>🔧 My skill set includes:</h3>
 
 - **SQL**: Proficient in writing complex queries to extract, transform, and manipulate data efficiently.
 
