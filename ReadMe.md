@@ -46,11 +46,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="100" height="50"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/postgresql_logo.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/postgresql_logo.png" title="Postgresql" alt="Postgresql" width="40" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Python" alt="Python" width="32" height="32"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas_logo_white.png" title="Pandas" alt="Pandas" width="35" height="40"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Numpy_logo.png" title="Pandas" alt="Pandas" width="35" height="40"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PySpark.png" title="Pandas" alt="Pandas" width="80" height="40"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Numpy_logo.png" title="Numpy" alt="Numpy" width="35" height="40"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PySpark.png" title="PySpark" alt="PySpark" width="80" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SQL-Database.svg" title="Azure SQL Database" alt="Azure SQL-Database" width="40" height="40"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Data-Factory.svg" title="Azure Data Factory" alt="Azure Data Factory" width="40" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-DataLake-icon.png" title="Azure Data Lake Gen 2" alt="Azure Data Lake Gen 2" width="40" height="40"/></a>
