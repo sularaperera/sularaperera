@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sulara Perera</h1>
-<h4 align="left">A results-driven Data Engineer and Data Analyst with two years of hands-on experience in extracting insights, optimizing data workflows, and creating impactful visualizations. I'm passionate about translating raw data into actionable business solutions.</h4>
+<h4 align="left">I am a Data Engineer and Data Analyst with two years of hands-on experience in analyzing and interpreting large datasets to uncover insights and improve business performance. I have worked in the logisctics and finance industries and my expertise lies in data modeling, data warehousing and data visualization. I am skilled in languages such as SQL, Python, PySpark, DAX, Power Query(M) and JavaScript. I am passionate about using data to drive decision-making and am always looking for new challenges and opportunities to learn and grow.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
