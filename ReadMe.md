@@ -23,7 +23,7 @@
 
 - **Data Visualization**: Transforming complex data into intuitive visualizations that tell a compelling story.
 
-- **JavaScript**: Applying JavaScript for web-based data visualizations and interactive dashboard components.
+<!-- - **JavaScript**: Applying JavaScript for web-based data visualizations and interactive dashboard components. -->
 
 
 <hr></hr>
