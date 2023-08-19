@@ -11,11 +11,19 @@
 
 - **Azure Cloud**: Experienced in working with Azure services to manage data pipelines and storage effectively.
 
+- **PySpark**: Working with PySpark to process and analyze large datasets within the Apache Spark framework.
+
 - **Power BI & Tableau**: Creating interactive and insightful dashboards that enable data-driven decision-making.
+
+- **DAX**: Creating advanced calculations and measures in Power BI for comprehensive data analysis.
+
+- **Power Query M**: Transforming and shaping data using Power Query M language within Power BI and Excel.
 
 - **Data Modeling & Warehousing**: Designing logical and physical data models to ensure data accuracy and integrity. Implementing and maintaining data warehouses to centralize and optimize data storage.
 
 - **Data Visualization**: Transforming complex data into intuitive visualizations that tell a compelling story.
+
+- **JavaScript**: Applying JavaScript for web-based data visualizations and interactive dashboard components.
 
 
 <hr></hr>
