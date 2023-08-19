@@ -17,6 +17,10 @@
 
 - **Data Visualization**: Transforming complex data into intuitive visualizations that tell a compelling story.
 
+
+<hr>
+
+
 - 🔭 I’m currently working on an **Azure Data Engineering Project**
 
 - 🌱 I’m currently learning Azure Cloud
