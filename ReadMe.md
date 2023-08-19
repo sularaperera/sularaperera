@@ -17,8 +17,6 @@
 
 - **DAX**: Creating advanced calculations and measures in Power BI for comprehensive data analysis.
 
-- **Power Query M**: Transforming and shaping data using Power Query M language within Power BI and Excel.
-
 - **Data Modeling & Warehousing**: Designing logical and physical data models to ensure data accuracy and integrity. Implementing and maintaining data warehouses to centralize and optimize data storage.
 
 - **Data Visualization**: Transforming complex data into intuitive visualizations that tell a compelling story.
