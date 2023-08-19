@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
+🔧 My skill set includes:
+
 - 🔭 I’m currently working on an **Azure Data Engineering Project**
 
 - 🌱 I’m currently learning Azure Cloud
