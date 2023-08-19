@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sulara Perera</h1>
-<h3 align="left">A results-driven Data Analyst and Data Engineer with two years of hands-on experience in extracting insights, optimizing data workflows, and creating impactful visualizations. I'm passionate about translating raw data into actionable business solutions.</h3>
+<h4 align="left">A results-driven Data Analyst and Data Engineer with two years of hands-on experience in extracting insights, optimizing data workflows, and creating impactful visualizations. I'm passionate about translating raw data into actionable business solutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
