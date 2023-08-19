@@ -8,11 +8,14 @@
 - **SQL**: Proficient in writing complex queries to extract, transform, and manipulate data efficiently.
 
 - **Python**: Utilizing Python for data manipulation, analysis, and automation to enhance decision-making processes.
-Azure Cloud: Experienced in working with Azure services to manage data pipelines and storage effectively.
-Power BI & Tableau: Creating interactive and insightful dashboards that enable data-driven decision-making.
-Data Modeling: Designing logical and physical data models to ensure data accuracy and integrity.
-Data Warehousing: Implementing and maintaining data warehouses to centralize and optimize data storage.
-Data Visualization: Transforming complex data into intuitive visualizations that tell a compelling story.
+
+- **Azure Cloud**: Experienced in working with Azure services to manage data pipelines and storage effectively.
+
+- **Power BI & Tableau**: Creating interactive and insightful dashboards that enable data-driven decision-making.
+
+- **Data Modeling & Warehousing**: Designing logical and physical data models to ensure data accuracy and integrity. Implementing and maintaining data warehouses to centralize and optimize data storage.
+
+- **Data Visualization**: Transforming complex data into intuitive visualizations that tell a compelling story.
 
 - 🔭 I’m currently working on an **Azure Data Engineering Project**
 
