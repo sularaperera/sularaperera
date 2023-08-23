@@ -8,7 +8,9 @@
 </p>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> 
+<img src="https://github.com/sularaperera/sularaperera/blob/main/icons/cv-button.png" alt="sularaperera" width="90" height="50"/> 
+</p>
 
 <h3>🔧 My skill set includes:</h3>
 
