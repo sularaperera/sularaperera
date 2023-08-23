@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DP203%20Data%20Eng%20Cert.jpg" alt="sularaperera" width="120" />
-  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/scrum.png" alt="sularaperera" width="130" /> 
+  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/scrum.png" alt="sularaperera" width="110" /> 
 
 </p>
 
