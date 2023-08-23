@@ -48,7 +48,7 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/SqlServer.jpg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="90" height="50"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/postgresql_logo.png" title="Postgresql" alt="Postgresql" width="42" height="42"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Jupyter.png" title="Postgresql" alt="Postgresql" width="35" height="40"/></a>
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/VSCode.png" title="Postgresql" alt="Postgresql" width="30" height="35"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/VSCode.png" title="Postgresql" alt="Postgresql" width="32" height="35"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Python.png" title="Python" alt="Python" width="32" height="32"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/pandas_logo_white.png" title="Pandas" alt="Pandas" width="35" height="40"/></a>
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Numpy_logo.png" title="Numpy" alt="Numpy" width="35" height="40"/></a>
