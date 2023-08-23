@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sulara Perera</h1>
-<p align="left">I am a Data Engineer and Data Analyst with hands-on experience in analyzing and interpreting large datasets to uncover insights and improve business performance. I have worked in the logistics and finance industries and my expertise lies in extracting insights, optimizing data workflows, and creating impactful visualizations. I am passionate about using data to drive decision-making and am always looking for new challenges and opportunities to learn and grow.</p>
+<p align="left">I am a Data Engineer and BI Developer with hands-on experience in analyzing and interpreting large datasets to uncover insights and improve business performance. I have worked in the logistics and finance industries and my expertise lies in extracting insights, optimizing data workflows, and creating impactful visualizations. I am passionate about using data to drive decision-making and am always looking for new challenges and opportunities to learn and grow.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sularaperera&label=Profile%20views&color=0e75b6&style=flat" alt="sularaperera" /> </p>
 
