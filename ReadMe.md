@@ -2,8 +2,8 @@
 <p align="left">I am a Data Engineer and BI Developer with hands-on experience in analyzing and interpreting large datasets to uncover insights and improve business performance. I have worked in the logistics and finance industries and my expertise lies in extracting insights, optimizing data workflows, and creating impactful visualizations. I am passionate about using data to drive decision-making and am always looking for new challenges and opportunities to learn and grow.</p>
 
 <p align="left"> 
-  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DP203%20Data%20Eng%20Cert.jpg" alt="sularaperera" width="150" />
-  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/scrum.png" alt="sularaperera" width="150" /> 
+  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/DP203%20Data%20Eng%20Cert.jpg" alt="sularaperera" width="120" />
+  <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/scrum.png" alt="sularaperera" width="130" /> 
 
 </p>
 
