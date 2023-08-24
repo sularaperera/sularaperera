@@ -40,7 +40,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sularaperera](https://github.com/sularaperera?tab=repositories)
 
-- 📝 I regularly write articles on [linkedin.com/in/sularaperera/](https://www.linkedin.com/in/sulara-perera/)
+- 📝 I regularly write articles on [linkedin.com/in/sulara-perera/](https://www.linkedin.com/in/sulara-perera/)
 
 - 📫 How to reach me **sulara.perera@outlook.com**
 
