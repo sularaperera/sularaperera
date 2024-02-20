@@ -34,7 +34,7 @@
 <hr></hr>
 
 
-- 🔭 I’m currently working on an **Azure Data Engineering Project**
+- 🔭 I’m currently working on an **Microsoft Fabric Data Engineering Project**
 
 - 🌱 I’m currently learning **R programming language**
 
