@@ -68,7 +68,7 @@
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Azure-Active-Directory.svg" title="Azure Active Directory" alt="Azure Active Directory" width="40" height="40"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/PowerBI.png" title="Microsoft Power BI" alt="Microsoft Power BI" width="45" height="45"/></a> 
 <a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/Tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/></a> 
-<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/fabric.png" title="Microsoft Fabric" alt="Fabric" width="38" height="38"/></a>
+<a> <img src="https://github.com/sularaperera/sularaperera/blob/main/icons/fabric.png" title="Microsoft Fabric" alt="Fabric" width="35" height="35"/></a>
 </p>
 
 
