@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on an **Microsoft Fabric Data Engineering Project**
 
-- 🌱 I’m currently learning **R programming language**
+- 🌱 I’m currently learning **Tableau**
 
 - 👨‍💻 All of my projects are available at [github.com/sularaperera](https://github.com/sularaperera?tab=repositories)
 
