@@ -20,7 +20,7 @@
 
 - **PySpark & Spark SQL**: Working with PySpark and Spark SQL to process and analyze large datasets within the Apache Spark framework.
 
-- **Power BI & Tableau**: Creating interactive and insightful dashboards that enable data-driven decision-making.
+- **Power BI**: Creating interactive and insightful dashboards that enable data-driven decision-making.
 
 - **DAX**: Creating advanced calculations and measures in Power BI for comprehensive data analysis.
 
