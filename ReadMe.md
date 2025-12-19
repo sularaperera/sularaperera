@@ -18,6 +18,8 @@
 
 - **Azure Cloud**: Experienced in working with Azure services to manage data pipelines and storage effectively.
 
+- **Databricks**: Hands-on experience as a Data Engineer using Databricks for building scalable data pipelines, implementing medallion architecture, and managing Delta Lake tables.
+
 - **PySpark & Spark SQL**: Working with PySpark and Spark SQL to process and analyze large datasets within the Apache Spark framework.
 
 - **Power BI**: Creating interactive and insightful dashboards that enable data-driven decision-making.
